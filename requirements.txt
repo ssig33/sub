@@ -1,5 +1,5 @@
 flake8==2.2.5
-redis==2.10.3
+redis==4.5.3
 requests
 ipaddress==1.0.14
 wsgiref==0.1.2
